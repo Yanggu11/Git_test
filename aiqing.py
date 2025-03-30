@@ -18,3 +18,5 @@ button.pack(pady=10)
 
 # 运行主循环
 root.mainloop()
+
+print("图形化界面已关闭。")
